@@ -33,6 +33,8 @@
     "lint:fix": "solhint \"contracts/**/*.sol\" --fix",
     "format": "prettier --write .",
     "coverage": "hardhat coverage",
-    "typechain": "yarn hardhat typechain"
+    "typechain": "yarn hardhat typechain",
+    "run-fund": "yarn hardhat run scripts/fund.ts --network localhost",
+    "run-withdraw": "yarn hardhat run scripts/withdraw.ts --network localhost"
     }
 }
