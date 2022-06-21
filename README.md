@@ -1,3 +1,56 @@
+<div id="top"></div>
+<!--
+*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Don't forget to give the project a star!
+*** Thanks again! Now go create something AMAZING! :D
+-->
+
+
+
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/nikmace/hardhat-fundme">
+    <img src="https://user-images.githubusercontent.com/176499/96893278-ebc67580-1460-11eb-9530-d5df3a3d65d0.png" alt="Logo" >
+  </a>
+
+<h3 align="center">Crowdfunding Contract</h3>
+
+  <p align="center">
+    The smart contract allows people to fund money, it also keeps track of people who sent the money & the amount.
+    <br />
+    <a href="https://github.com/nikmace/hardhat-fundme"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/nikmace/hardhat-fundme">View Demo</a>
+    ·
+    <a href="https://github.com/nikmace/hardhat-fundme/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/nikmace/hardhat-fundme/issues">Request Feature</a>
+  </p>
+</div>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 # Hardhat Fund Me - Typescript Edition
 
 - [Hardhat Fund Me - Typescript Edition](#hardhat-fund-me---typescript-edition)
@@ -156,13 +209,18 @@ or, to fix:
 yarn lint:fix
 ```
 
-# Thank you!
-
-If you appreciated this, feel free to follow me or donate!
-
-ETH/Polygon/Avalanche/etc Address: 0x9680201d9c93d65a3603d2088d125e955c73BD65
-
-[![Patrick Collins Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PatrickAlphaC)
-[![Patrick Collins YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCn-3f8tw_E1jZvhuHatROwA)
-[![Patrick Collins Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrickalphac/)
-[![Patrick Collins Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@patrick.collins_58673/)
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/nikmace/hardhat-fundme.svg?style=for-the-badge
+[contributors-url]: https://github.com/nikmace/hardhat-fundme/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/nikmace/hardhat-fundme.svg?style=for-the-badge
+[forks-url]: https://github.com/nikmace/hardhat-fundme/network/members
+[stars-shield]: https://img.shields.io/github/stars/nikmace/hardhat-fundme.svg?style=for-the-badge
+[stars-url]: https://github.com/nikmace/hardhat-fundme/stargazers
+[issues-shield]: https://img.shields.io/github/issues/nikmace/hardhat-fundme.svg?style=for-the-badge
+[issues-url]: https://github.com/nikmace/hardhat-fundme/issues
+[license-shield]: https://img.shields.io/github/license/nikmace/hardhat-fundme.svg?style=for-the-badge
+[license-url]: https://github.com/nikmace/hardhat-fundme/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/linkedin_username
+[product-screenshot]: images/screenshot.png
